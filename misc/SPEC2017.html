@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Compilers Lab - UFMG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px; /* Container on the bottom of topbar. */
+      }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+            <ul class="nav">
+              <li class="active"><a href="../index.html">Home</a></li>
+              <li><a href="../publications.html">Publications</a></li>
+              <li><a href="../people.html">People</a></li>
+              <li><a href="http://cuda.dcc.ufmg.br/" target="blank">Tools</a></li>
+              <li><a href="../apply.html">Apply</a></li>
+            </ul>
+        </div>
+      </div>
+    </div>
+
+<div class="container">
+
+<h1>SPEC 2017</h1> (by Andrei Rimsa)
+
+<P>
+<BR><BR>
+</P>
+
+<P>
+<a href="https://www.spec.org/cpu2017/" target="blank">SPEC2017</a> is available in <code>opencl@dcc</code>.
+To use it, each user should install it in their own home directory (ideally)
+or somewhere else of his/her choice.
+Since every user has his own needs, it is better for each one to have a
+private copy of SPEC.
+Andrei has created a script to help with this process.
+The script is available at:
+
+<pre>
+$ /opt/benchmarks/SPEC2017/install.sh
+</pre>
+
+The script asks the user to choose a directory:
+
+<pre>
+SPEC CPU2017 Installation
+
+Top of the CPU2017 tree is '/opt/benchmarks/SPEC2017/iso'
+
+Enter the directory you wish to install to (e.g. /usr/cpu2017)
+  1) choose somewhere in your home (e.g.: /home/andrei/SPEC2017")
+  2) type "yes" to continue
+</pre>
+
+To use SPEC, go to you installed SPEC directory and load its configuration:
+
+<pre>
+$ cd /home/andrei/SPEC2017
+
+$ . shrc
+</pre>
+
+If you wish to run the SPEC benchmarks under a simulated environment, such as valgrind, pin or any other, download and apply <a href="spec2017-prepend.patch" target="_blank" download>spec2017-prepend.patch</a> patch.
+This patch adds the "--prepend" command line argument to <a href="https://www.spec.org/cpu2017/Docs/runcpu.html" target="_blank">runcpu</a> in order to execute another program with the benchmark and its inputs as arguments.
+
+<pre>
+$ patch -p1 < spec2017-prepend.patch
+patching file MANIFEST
+patching file bin/harness/benchmark.pm
+patching file bin/harness/configpp
+patching file bin/harness/parse.pl
+patching file bin/harness/runcpu
+</pre>
+
+The patch was designed in such a way that you can use some of the variables exposed by the running script (bin/harness/benchmark.pm). Some interesting variables are (don't forget to escape the $ while running in the terminal):
+<ul>
+  <li><b>$basedir</b>: the directory where the simulation is being executed</li>
+  <li><b>$iter</b>: the number of the current iteration</li>
+  <li><b>$workload_num</b>: the sequence of the current input used in the iteration (it resets every iteration).</li>
+</ul>
+
+<pre>
+$ runcpu --prepend="valgrind -q --tool=loopgrind --cfg-outfile=\$basedir/run.cfg" --config=valgrind 557.xz
+...
+</pre>
+
+Please refer the SPEC <a href="https://www.spec.org/cpu2017/Docs/" target="blank">documentation</a> for further information.
+</P>
+
+</div>
+
+</body>
+</html>

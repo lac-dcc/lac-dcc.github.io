@@ -1,0 +1,152 @@
+diff -urN a/MANIFEST b/MANIFEST
+--- a/MANIFEST	2018-05-22 16:07:58.000000000 -0300
++++ b/MANIFEST	2019-04-05 20:00:26.000000000 -0300
+@@ -18879,19 +18879,19 @@
+ 78336432d27b83176033c57df9104db0aff0029b8fa4b5a58996887e6514b013f4e52e3626de43aefdc8890dec12b541de82909f1d544ed687729b6172010279 * 000000000000059f bin/formatter/var_order
+ 8a5a1509a74a1c91330a2a66e0f7bd22881a9d71eff9369ecda3071a915a4b56c54fc5879477d3b21376e935784bd1ab9849b6b87a04f2b9cdce814920de8ed5 * 0000000000000bd0 bin/formatter/vars.pl
+ a8619bd6bd0ab38abf4555aa3eec9f1ae8d3cfb84f3d933ddfe1a5d0cff1e2b7acc263d65dfb932fb2a41ae8b39bde88f47548c5df599215e2ad0f6fa2dc6cf1 * 0000000000009063 bin/harness/ConfigDumper.pm
+-a55c640980e4aaf0518928fb4ed5696f781401a8dc32e90dceccf8c170bce800737fda103e22b539984bf32ab6416314b2c54f530b23e62b6598876cd9c8fb01 * 000000000002f580 bin/harness/benchmark.pm
++d39d3292878ad06883688a2200b81a99521d28a5651318e5cf842a12d791b86d57259b01d37fafad649b2b3a69316c4bc88c9725c0365c248dfdb8b121264e6a * 000000000002f699 bin/harness/benchmark.pm
+ 5ec26297febdf3c3efca7dcb6c83fd8af9c8525ec24082bc84b89c222d4e05bf404ba31ecd66794114c7d6433854a8af69f1222b007cda5f003f6e0f995c222e * 00000000000093aa bin/harness/benchset.pm
+ 258979abd1f6eb1339d11a14558113540fbe25a9f0d0b0eb2c632e86facad5cb40cf9001e2e2d34317836d9c4d534acb0c1ba21c6bd5dcbbb2dd23bcf0fd86b7 * 00000000000077d1 bin/harness/compare.pl
+ 1df0fd83ddaa837950050c505a38e22dc99650da376763f60b69df78f26f8245411744c1d08e75ded7e107636058dd0094a300b386d6787c7ca4ccfde5126a78 * 0000000000016050 bin/harness/config.pl
+-dd0c5b97ae6273eeb177727fad3cc601d658f15ad75a9271198bcb582f4248a25224ed843ac8c4f8f492ec46d8dfefd784508a6666de74408a56ab371cc9a7a0 * 000000000002b4d7 bin/harness/configpp
++0e351b102b51907ee8ce788de3aa5dd1e13010848b51bde1f7c372934cb6a6b597e8f1d6ad5cf0c99878cb83f2d471ded1befe0c409c0abece6b56b454ed01ca * 000000000002b541 bin/harness/configpp
+ 021dac18da056ff785614e4600a4b73eca04703624b213e646d2ffb25db1fc9f49592b9cdf51e62b050610d1e196a075ecf25627b1d6fa070156421b92a82da6 * 0000000000000259 bin/harness/flagutils.pl
+ 15e40f679771db3e128c57b382e9f47ac65cf65572e6a6868ebf239ec8c7f70a077e9c18886518ef5f34d2ac861dcc3377555e5597e6a629b3874de7cbd27cfa * 0000000000002e5a bin/harness/locate.pl
+ cc7c8263b3f67b1a1b943068cb634e5917d529780792a2391fcb3d8a02bb31d2495b499ae5ac7323b3f57459764ad673a5ce041ba008baa6721004353158647b * 0000000000002b8e bin/harness/log.pl
+ e9285a6a65f4562e7d4087a0f8263cb944bf0dd8116180d736fed13b968da5e32aaf1bdaf336bc6a5da7fb55bd73bb4450264819484948d2c27d8b84af66686a * 0000000000000221 bin/harness/mailutil.pl
+ 3bd6916a8ff5f4d0bd7791ea6169462d1ddd164e9151d7598cf18a6f3eca1a51702b1d31ed428d0dd4beeafda07124b4d566870e9992ed9d687970d4fb870235 * 00000000000008b7 bin/harness/monitor.pl
+ bc66ace22114aabef850685fcc6a2d913195e11e36e5c1cc6d35dc236d27e3a8afc91425cc32c8bd0476349edecf1b95e6781bd7d257c204a5bc3f407b42e6a1 * 0000000000000212 bin/harness/os.pl
+-0916fc695f43ab9e5953f3347e1646089fc0b75bc118d7845551c0c7846e3edaa276cffacf51b3ce783722fc71e39d16ea4165c7ac941288035cc2d31c371420 * 000000000000f2bb bin/harness/parse.pl
+-dd0c5b97ae6273eeb177727fad3cc601d658f15ad75a9271198bcb582f4248a25224ed843ac8c4f8f492ec46d8dfefd784508a6666de74408a56ab371cc9a7a0 * 000000000002b4d7 bin/harness/runcpu
++59f940ed56f9b47fd6a34877cc822a023a2d97703d964c1f963ac79321638fcdf9b98e422f6fc01453548e3aaeed77613332115859c4520cc7a3a42ac43a26b6 * 000000000000f329 bin/harness/parse.pl
++9ab184a05c4d3d840eeb6881fbc56ac8317f11b6357911e303928db97fb1389387f9e4e131af7f43ee058ebf65e5d5995efcea049c1146c5a3d9d8614ace0b8a * 000000000002b558 bin/harness/runcpu
+ 6421c997b9c8c4ac953d0b003af42095fc69a25cc81cad3f40bc9d2c5625bfbc13090afac34ca4cdc3e01b702db234950ab474c540401aee2a5cf4fcf9162bdb * 000000000000264e bin/harness/specdiff
+ 4c39253445adf826690338c0628342f92a374eba980e766651f693729c9dbd330d4fb3e5d2a85e8769d4a7ebb53e774d43aae6b32a872f6bda0844b098a674d4 * 0000000000015f89 bin/harness/specpp
+ fa34276e92680bea72c1496482052e7d6578bb8d4367ef05341402cade19d8eedc1de75918ce10edbc091c9589ec1c891d5f485bd11493b517e65ad25c003bd9 * 0000000000016fd7 bin/harness/util.pl
+diff -urN a/bin/harness/benchmark.pm b/bin/harness/benchmark.pm
+--- a/bin/harness/benchmark.pm	2017-05-12 12:27:56.000000000 -0300
++++ b/bin/harness/benchmark.pm	2019-04-05 19:52:44.000000000 -0300
+@@ -544,7 +544,7 @@
+             my ($runfile, $cmdoutputs, undef, $specrun, $outfiles) = $me->prep_specrun($tmpres, $dirs,
+                         $me->inputgenfile,
+                         $me->inputgenoutfile,
+-                        \%oldENV, 1, 0, 0,
++                        \%oldENV, 1, "", 0, 0,
+                         [
+                             [ '-e', $me->inputgenerrfile    ],
+                             [ '-o', $me->inputgenstdoutfile ],
+@@ -1937,7 +1937,7 @@
+                 }
+ 
+                 Log(3, "Training ", $me->benchmark, ' with the ', $me->train_with. " workload\n");
+-                $rc = $me->run_benchmark(0, 1, undef, 1);
++                $rc = $me->run_benchmark(0, 1, undef, 1, '');
+                 $me->shift_ref();
+                 $compile_options .= "RUN$pass: $val\n";
+                 if ($rc->{'valid'} ne 'S' && !istrue($me->fake)) {
+@@ -3113,7 +3113,7 @@
+ }
+ 
+ sub run_benchmark {
+-    my ($me, $setup, $is_build, $iter, $is_training) = @_;
++    my ($me, $setup, $is_build, $iter, $is_training, $prepend) = @_;
+     my ($start, $stop, $elapsed);
+     my @skip_timing = ();
+     my %err_seen = ();
+@@ -3190,7 +3190,7 @@
+     # run directory.
+     my ($absrunfile, $resfile, $skip_timing_list, $specrun, undef) = $me->prep_specrun($result, \@dirs,
+                         $me->commandfile, $me->commandoutfile,
+-                        \%oldENV, $setup, $is_training, $iter,
++                        \%oldENV, $setup, $prepend, $is_training, $iter,
+                         [
+                             '-q',
+                             [ '-e', $me->commanderrfile    ],
+@@ -3696,7 +3696,7 @@
+         # as well.
+         my ($comparename, $compareout, undef, $specrun, undef) = $me->prep_specrun($result, \@dirs,
+                     $me->comparefile, $me->compareoutfile,
+-                    \%oldENV, 1, $is_training, 0,
++                    \%oldENV, 1, "", $is_training, 0,
+                     [
+                         '-E',
+                         [ '-e', $me->compareerrfile    ],
+@@ -4375,7 +4375,7 @@
+ }
+ 
+ sub prep_specrun {
+-    my ($me, $result, $dirs, $commands, $commands_output, $backup_env, $log_cmds, $is_training, $iter, $opts, $objgen_name, @objs) = @_;
++    my ($me, $result, $dirs, $commands, $commands_output, $backup_env, $log_cmds, $prepend, $is_training, $iter, $opts, $objgen_name, @objs) = @_;
+ 
+     my $path = $dirs->[0]->path;
+     my $tune = $me->tune;
+@@ -4451,9 +4451,11 @@
+             unshift @{$obj->{'args'}}, '--platform', $me->platform if $me->platform ne '';
+         }
+ 
++        my $basedir = jp('..', basename($path));
++
+         my $command = $obj->{'command'};
+         if ($command ne 'specperl') {
+-            $command = ::path_protect(jp('..', basename($path), $command));
++            $command = ::path_protect(jp($basedir, $command));
+         } else {
+             my $specperl = ($^O =~ /MSWin/) ? 'specperl.exe' : 'specperl';
+             $command = ::path_protect(jp($me->top, 'bin', $specperl));
+@@ -4483,6 +4485,12 @@
+         push @output_files, $obj->{'input'}  if $obj->{'input'}  ne '';
+         push @output_files, $obj->{'output'} if $obj->{'output'} ne '';
+         push @output_files, $obj->{'error'}  if $obj->{'error'}  ne '';
++
++        if (defined($prepend) && ($prepend ne '')) {
++             (my $newprepend = $prepend) =~ s/"/\\"/g;
++             $command = eval("::path_protect(\"$newprepend\")") . " " . $command;
++        }
++
+         $command = ::path_protect($command);
+         $me->command($command);
+ 
+diff -urN a/bin/harness/configpp b/bin/harness/configpp
+--- a/bin/harness/configpp	2017-06-28 13:13:35.000000000 -0300
++++ b/bin/harness/configpp	2019-04-05 19:52:51.000000000 -0300
+@@ -2313,6 +2313,7 @@
+         if ($::lcsuite eq 'accel') {
+             print " --platform name                Select the platform to run on\n";
+         }
++        print " --prepend=COMMAND              Prepend a new command to be executed for the benchmark\n";
+         print " --[no]power                    Control power measurement during run\n";
+         print " --[no]preenv                   Control pre-run setting of environment variables\n";
+         print "                                  via 'preENV_<xxx>' in the config file.\n";
+diff -urN a/bin/harness/parse.pl b/bin/harness/parse.pl
+--- a/bin/harness/parse.pl	2018-05-22 10:22:35.000000000 -0300
++++ b/bin/harness/parse.pl	2019-04-05 19:52:35.000000000 -0300
+@@ -134,6 +134,7 @@
+         'parallel_test_workloads|parallel-test-workloads=s'             => sub { record($cl_opts, 's', @_) },
+         'parallel_test|parallel-test=i'                                 => sub { record($cl_opts, 'i', @_) },
+         'platform=s'                                                    => sub { record($cl_opts, 's', @_) },
++        'prepend=s'                                                     => sub { record($cl_opts, 's', @_) },
+         'ranks=i'                                                       => sub { record($cl_opts, 'i', @_) },
+         'runmode=s'                                                     => sub { record($cl_opts, 's', @_) },
+         'size|input|i=s'                                                => sub { record($cl_opts, 's', @_) },
+diff -urN a/bin/harness/runcpu b/bin/harness/runcpu
+--- a/bin/harness/runcpu	2017-06-28 13:13:35.000000000 -0300
++++ b/bin/harness/runcpu	2019-04-05 19:52:26.000000000 -0300
+@@ -1412,7 +1412,7 @@
+                         }
+                         $rc = $bench->run_benchmark(
+                             ($runconfig->action eq 'setup'),
+-                            0, $iter, 0);
++                            0, $iter, 0, $cl_opts->{'prepend'});
+                         if ($runconfig->action ne 'setup') {
+                             my $outcome = 'Success';
+                             my $error_code = '';
+@@ -2313,6 +2313,7 @@
+         if ($::lcsuite eq 'accel') {
+             print " --platform name                Select the platform to run on\n";
+         }
++        print " --prepend=COMMAND              Prepend a new command to be executed for the benchmark\n";
+         print " --[no]power                    Control power measurement during run\n";
+         print " --[no]preenv                   Control pre-run setting of environment variables\n";
+         print "                                  via 'preENV_<xxx>' in the config file.\n";

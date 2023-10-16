@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publica&ccedil;&otilde;es</title>
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <style>
+    body {
+      padding-top: 60px; /* Container on the bottom of topbar. */
+    }
+  </style>
+  <link href="css/bootstrap-responsive.css" rel="stylesheet">
+</head>
+
+<body>
+ <div class="container">
+  <h2>Peri&oacute;dicos</h2>
+  <h3>2015</h3>
+<p>
+<TABLE cellpadding="10pt">
+ <TR>
+ <TD align= "center">
+  <A HREF="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7106364&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7106364"
+          target="blank">
+  <img
+    align= "center"
+    src ="images/pdf.jpg"
+    ALT="Download it"
+    width=45>
+  </A> 
+ </TD>
+ <TD align= "left">
+ Augusto Fernando, Menezes Gustavo, Marcondes Pablo, Fernando Pereira, Chi Hao, Marcos Jose, and Barbosa Leonardo. <b>Defending Internet of Things against Exploits.</b> <em>Revista IEEE América Latina</em>, vol. 13, issue 4, pages 1112-1119, 2015. ISSN 15480992.
+<a href="#" type="button" class="btn-toggle" data-element="#pt1">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+</TD>
+</TR>
+<TR>
+<td></td>
+<TD>
+<div class="bib" id="pt1" style="display: none;">
+@article{Teixeira15,<br>
+&nbsp; author = {Fernando Teixeira and Gustavo Vieira and Pablo Fonseca and Fernando Pereira and Hao Wong and Marcos José Nogueira and Leonardo Oliveira},<br>
+&nbsp; journal = {IEEE Latin America Transactions},<br>
+&nbsp; title = {Defending Internet of Things against Exploits},<br>
+&nbsp; year = {2015},<br>
+&nbsp; pages = {1112-1119},<br>
+&nbsp; publisher = {IEEE}
+}
+</div>
+</TD>
+</tr>
+<TR>
+    <TD align= "center">
+        <A HREF="http://www.revistaieeela.pea.usp.br/issues/vol13issue3March2015/13TLA3_46LemosMaiaNeto.pdf"
+            target="blank">
+            <img
+                align= "center"
+                src ="images/pdf.jpg"
+                ALT="Download it"
+                width=45>
+                </A> 
+    </TD>
+    <TD align= "left">
+Neto Antonio, Melo Leandro, Neto Omar, Pereira Fernando, and Barbosa Leonardo. <b>Protecting Programs Against Memory Violation In Hardware.</b> <em>Revista IEEE América Latina</em>, vol. 13, issue 3, pages 885-891, 2015. ISSN 15480992.
+<a href="#" type="button" class="btn-toggle" data-element="#pt2">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+    </TD>
+</TR>
+<TR>
+    <td></td>
+    <TD>
+        <div class="bib" id="pt2" style="display: none;">
+            @article{Lemos15,<br>
+            &nbsp; author = {Antonio Neto and Leandro Melo and Omar Neto and Fernando Pereira and Leonardo Barbosa},<br>
+            &nbsp; journal = {IEEE Latin America Transactions},<br>
+            &nbsp; title = {Protecting Programs Against Memory Violation In Hardware},<br>
+            &nbsp; year = {2015},<br>
+            &nbsp; pages = {885-891},<br>
+            &nbsp; publisher = {IEEE}
+            }
+        </div>
+    </TD>
+</tr>
+<TR>
+    <TD align= "center">
+        <A HREF="http://www.ewh.ieee.org/reg/9/etrans/ieee/issues/vol13/vol13issue04April2015/13TLA4_28ZafraSaggioro.pdf"
+            target="blank">
+            <img
+                align= "center"
+                src ="images/pdf.jpg"
+                ALT="Download it"
+                width=45>
+                </A>
+    </TD>
+    <TD align= "left">
+Saggioro Felipe, Paisante Vitor, Rodrigues Raphel, Barbosa Leonardo, and Pereira Fernando. <b>Crosschecking Distributed Data to Detect Integer Overflow.</b> <em>Revista IEEE América Latina</em>, vol. 13, issue 4, pages 1083-1089, 2015. ISSN 15480992.
+<a href="#" type="button" class="btn-toggle" data-element="#pt3">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+    </TD>
+</TR>
+<TR>
+    <td></td>
+    <TD>
+        <div class="bib" id="pt3" style="display: none;">
+            @article{Lemos15,<br>
+            &nbsp; author = {Felipe Saggioro and Vitor Paisante and Raphel Rodrigues and Leonardo Barbosa and Fernando Pereira},<br>
+            &nbsp; journal = {IEEE Latin America Transactions},<br>
+            &nbsp; title = {Crosschecking Distributed Data to Detect Integer Overflow},<br>
+            &nbsp; year = {2015},<br>
+            &nbsp; pages = {1083-1089},<br>
+            &nbsp; publisher = {IEEE}
+            }
+        </div>
+    </TD>
+</tr>
+</table>
+<h3>2004</h3>
+<p>
+<TABLE cellpadding="10pt">
+<TR>
+    <TD align= "center">
+        <A HREF="http://compilers.cs.ucla.edu/fernando/publications/journals/Inatel2004.pdf"
+            target="blank">
+            <img
+                align= "center"
+                src ="images/pdf.jpg"
+                ALT="Download it"
+                width=45>
+                </A>
+    </TD>
+    <TD align= "left">
+        Fernando Pereira, Marco Valente, Roberto Bigonha, and Mariza Bigonha. <b>Chamada Remota de Métodos na Plataforma J2ME/CLDC.</b> <em>Telecomunicações (Santa Rita do Sapucaí)</em>, vol. 7, pages 21-31, 2004. ISSN 15162338.
+        <a href="#" type="button" class="btn-toggle" data-element="#pt4">[BIBTEX]</a>
+        <A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+    </TD>
+</TR>
+<TR>
+    <td></td>
+    <TD>
+        <div class="bib" id="pt4" style="display: none;">
+            @InProceedings{Pereira03b,<br>
+            &nbsp; author = "Fernando Pereira and
+            Marco Valente and
+            Roberto Bigonha and
+            Mariza Bigonha",<br>
+            &nbsp; title = "Chamada Remota de M\'{e}todos na Plataforma {J2ME/CLDC}",<br>
+            &nbsp; booktitle = "{WCSF} - 5th Brazilian Workshop on Wireless Communication and
+            Mobile Computation",<br>
+            &nbsp; publisher = "SBC",<br>
+            &nbsp; pages = "157 - 168",<br>
+            &nbsp; year = "2003"<br>
+            }
+        </div>
+    </TD>
+</tr>
+</table>
+
+<h2>Confer&ecirc;ncias</h1>
+<h3>2015</h3>
+<p>
+<TABLE cellpadding="10pt">
+    <TR>
+        <TD align= "center">
+            <A HREF="http://dl.acm.org/citation.cfm?doid=2737095.2737097"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Teixeira Fernando, Machado Gustavo, Pereira Fernando, Wong Hao, Nogueira José and Oliveira Leonardo. <b>SIoT: securing the internet of things through distributed system analysis</b> <em>IPSN '15 Proceedings of the 14th International Conference on Information Processing in Sensor Networks</em>, pages 310-321, Seattle, Brasil, 2015. ISBN 9781450334754.
+<a href="#" type="button" class="btn-toggle" data-element="#pt5">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt5" style="display: none;">
+                @inproceedings{TeixeiraMPWNO15,<br>
+                &nbsp; author    = {Fernando Teixeira and
+                Gustavo Machado and
+                Fernando Pereira and
+                Hao Chi Wong and
+                Jos{\'{e}} Marcos Nogueira and
+                Leonardo  Oliveira},<br>
+                &nbsp; title     = {SIoT: securing the internet of things through distributed system analysis},<br>
+                &nbsp; booktitle = {Proceedings of the 14th International Conference on Information Processing
+                in Sensor Networks, {IPSN} 2015, Seattle, WA, USA, April 14-16, 2015},<br>
+                &nbsp; pages     = {310--321},<br>
+                &nbsp; year      = {2015},<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="#"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Campos Victor, Alves Péricles, and Pereira Fernando. <b>Restritificação.</b> <em>Simpósio Brasileiro de Linguagens de Programação</em>, Belo Horizonte, Brasil, 2015.
+<a href="#" type="button" class="btn-toggle" data-element="#pt6">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt6" style="display: none;">
+                @inproceedings{Campos15,<br>
+                &nbsp; author    = {Victor Campos and Péricles Alves and Fernando Pereira},<br>
+                &nbsp; title     = {Restritificação},<br>
+                &nbsp; year      = {2015},<br>
+                &nbsp; publisher = "SBLP",<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="#"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Douglas Couto, Kezia Andrade, Gleison Souza, and Fernando Pereira. <b>Etino: Colocação Automática de Computação em Hardware Heterogêneo.</b> <em>Simpósio Brasileiro de Linguagens de Programação</em>, Belo Horizonte, Brasil, 2015.
+<a href="#" type="button" class="btn-toggle" data-element="#pt7">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt7" style="display: none;">
+                @inproceedings{Couto15,<br>
+                &nbsp; author    = {Douglas Couto and Kezia Andrade and Gleison Souza and Fernando Pereira},<br>
+                &nbsp; title     = {Etino: Colocação Automática de Computação em Hardware Heterogêneo},<br>
+                &nbsp; year      = {2015},<br>
+                &nbsp; publisher = "SBLP",<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://cbsoft.org/articles/0000/0529/Ferramentas.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Rubens Emílio, Mateus Tymburibá, and Fernando Pereira. <b>RipRop: A Dynamic Detector of ROP Attacks.</b> <em>CBSoft Tools</em>, pages 9-16, Belo Horizonte, Brasil, 2015.
+<a href="#" type="button" class="btn-toggle" data-element="#pt8">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt8" style="display: none;">
+                @inproceedings{Emílio15,<br>
+                &nbsp; author    = {Rubens Emílio and Mateus Tymburibá and Fernando Pereira},<br>
+                &nbsp; title     = {RipRop: A Dynamic Detector of ROP Attacks},<br>
+                &nbsp; booktitle = "CBSoft Tools",<br>
+                &nbsp; year      = {2015},<br>
+                &nbsp; pages      = {9-16},<br>
+                &nbsp; publisher = "SBLP",<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://cbsoft.org/articles/0000/0529/Ferramentas.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Bruno Silva, Leonardo Ribeiro, and Fernando Pereira. <b>FlowTracker - Detecção de Código Não Isócrono via Análise Estática de Fluxo.</b> <em>CBSoft Tools</em>, pages 97-104, Belo Horizonte, Brasil, 2015.
+<a href="#" type="button" class="btn-toggle" data-element="#pt9">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt9" style="display: none;">
+                @inproceedings{Silva15,<br>
+                &nbsp; author    = {Bruno Silva and Leonardo Ribeiro and Fernando Pereira},<br>
+                &nbsp; title     = {FlowTracker - Detecção de Código Não Isócrono via Análise Estática de Fluxo},<br>
+                &nbsp; booktitle = "CBSoft Tools",<br>
+                &nbsp; year      = {2015},<br>
+                &nbsp; pages      = {97-104},<br>
+                &nbsp; publisher = "SBLP",<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://cbsoft.org/articles/0000/0529/Ferramentas.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Douglas Couto, Kezia Andrade, Gleison Souza, and Fernando Pereira. <b>Etino: Colocação Automática de Computação em Hardware Heterogêneo.</b> <em>CBSoft Tools</em>, pages 65-72, Belo Horizonte, Brasil, 2015.
+<a href="#" type="button" class="btn-toggle" data-element="#pt10">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt10" style="display: none;">
+                @inproceedings{Couto15b,<br>
+                &nbsp; author    = {Douglas Couto and Kezia Andrade and Gleison Souza, and Fernando Pereira},<br>
+                &nbsp; title     = {Etino: Colocação Automática de Computação em Hardware Heterogêneo},<br>
+                &nbsp; booktitle = "CBSoft Tools",<br>
+                &nbsp; year      = {2015},<br>
+                &nbsp; pages      = {65-72},<br>
+                &nbsp; publisher = "SBLP",<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://cbsoft.org/articles/0000/0529/Ferramentas.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Junio Cezar, Francisco Demontie, Mariza Bigonha, and Fernando Pereira. <b>Asymptus - A Tool for Automatic Inference of Loop Complexity.</b> <em>CBSoft Tools</em>, pages 89-96, Belo Horizonte, Brasil, 2015.
+<a href="#" type="button" class="btn-toggle" data-element="#pt11">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt11" style="display: none;">
+                @inproceedings{Cezar15,<br>
+                &nbsp; author    = {Junio Cezar and Francisco Demontie and Mariza Bigonha and Fernando Pereira},<br>
+                &nbsp; title     = {Asymptus - A Tool for Automatic Inference of Loop Complexity},<br>
+                &nbsp; booktitle = "CBSoft Tools",<br>
+                &nbsp; year      = {2015},<br>
+                &nbsp; pages      = {89-96},<br>
+                &nbsp; publisher = "SBLP",<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7444872&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7444872"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Antônio Maia, Leandro Melo, Fernando Pereira, Paranaiba Omar, and Leonardo Barbosa. <b>SMOV: Array Bound-Check and Access in a Single Instruction.</b> <em>Consumer Communications &amp; Networking Conference (CCNC)</em>, pages 1745--751, Las Vegas, Brasil, 2015.
+<a href="#" type="button" class="btn-toggle" data-element="#pt12">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt12" style="display: none;">
+                @inproceedings{Maia16,<br>
+                &nbsp; author    = {Antonio Maia and
+                Leandro T. C. Melo and
+                Fernando Magno Quint{\~{a}}o Pereira and
+                Omar P. Vilela Neto and
+                Leonardo B. Oliveira},<br>
+                &nbsp; title     = {{SMOV:} Array Bound-Check and access in a single instruction},<br>
+                &nbsp; booktitle = {13th {IEEE} Annual Consumer Communications &amp; Networking Conference,
+                {CCNC} 2016, Las Vegas, NV, USA, January 9-12, 2016},<br>
+                &nbsp; pages     = {745--751},<br>
+                &nbsp; year      = {2016},<br>
+                &nbsp; publisher = {IEEE}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://sbseg2015.univali.br/anais/SBSegCompletos/artigoCompleto02.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Bruno Silva, Diego Aranha, and Fernando Pereira. <b>Uma Técnica de Análise Estática para Detecção de Canais Laterais Baseados em Tempo.</b> <em>XV Simpósio Brasileiro de Segurança da Informação e Sistemas Computacionais</em>, vol. 1, issue 1, pages 16-29, Florianópolis, Brasil, 2015.</li>
+<a href="#" type="button" class="btn-toggle" data-element="#pt13">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt13" style="display: none;">
+                @inproceedings{Silva15,<br>
+                &nbsp; author    = {Bruno Silva and Diego Aranha and Fernando Pereira},<br>
+                &nbsp; title     = {Uma Técnica de Análise Estática para Detecção de Canais Laterais Baseados em Tempo},<br>
+                &nbsp; booktitle = {XV Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais — SBSeg 2015},<br>
+                &nbsp; pages     = {16-29},<br>
+                &nbsp; year      = {2015},<br>
+                &nbsp; publisher = {SBC}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    </table>
+
+<h3>2014</h3>
+<p>
+<TABLE cellpadding="10pt">
+    <TR>
+        <TD align= "center">
+            <A HREF="http://sbrc2014.ufsc.br/anais/files/trilha/ST14-1.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Fernando Teixeira, Fernando Pereira, Gustavo Vieira, Pablo Marcondes, Hao Wong, José Nogueira, and Leonardo Oliveira. <b>Siot: Defendendo a Internet das Coisas contra Exploits.</b> <em>Simpósio Brasileiro de Redes de Computadores</em>, Floritanópolis, Brasil, 2014.
+<a href="#" type="button" class="btn-toggle" data-element="#pt14">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt14" style="display: none;">
+                @inproceedings{Teixeira14,<br>
+                &nbsp; author    = {Fernando Teixeira and Fernando Pereira and Gustavo Vieira and Pablo Marcondes and Hao Wong and José Nogueira and Leonardo Oliveira},<br>
+                &nbsp; title     = {Siot: Defendendo a Internet das Coisas contra Exploits},<br>
+                &nbsp; booktitle = {Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos – SBRC 2014},<br>
+                &nbsp; year      = {2014},<br>
+                &nbsp; publisher = {SBC}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+</table>
+    <h3>2013</h3>
+    <p>
+    <TABLE cellpadding="10pt">
+    <TR>
+        <TD align= "center">
+            <A HREF="http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=ceseg:2013-sbseg-mc3.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Vitor Paisante, Zafra Felipe, Rodrigues E., Leonardo Oliveira, and Fernando Pereira. <b>Prevenção de Ataques em Sistemas Distribuídos via Análise de Intervalos.</b> <em>Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais</em>, Belo Horizonte, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt15">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt15" style="display: none;">
+                @inproceedings{Paisante13,<br>
+                &nbsp; author    = {Vitor Paisante and Zafra Felipe and Rodrigues E. and Leonardo Oliveira and Fernando Pereira},<br>
+                &nbsp; title     = {Prevenção de Ataques em Sistemas Distribuídos via Análise de Intervalos},<br>
+                &nbsp; booktitle = {XIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais — SBSeg 2013},<br>
+                &nbsp; year      = {2013},<br>
+                &nbsp; pages     = {101-155},<br>
+                &nbsp; publisher = {SBC}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="#"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Bruno Silva, Fernando Pereira, Leonardo Barbosa, and Antônio Loureiro. <b>Flow Tracking: Uma ferramenta para detecção de vazamento de informações sigilosas.</b> <em>CBSoft Tools</em>, Brasília, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt16">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt16" style="display: none;">
+                @inproceedings{Silva13,<br>
+                &nbsp; author    = {Bruno Silva and Fernando Pereira and Leonardo Barbosa and Antônio Loureiro},<br>
+                &nbsp; title     = {Flow Tracking: Uma ferramenta para detecção de vazamento de informações sigilosas},<br>
+                &nbsp; booktitle = {CBSoft Tools},<br>
+                &nbsp; year      = {2013}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="#"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Guilherme Balena, Matheus Vilela, and Fernando Pereira. <b>Resolução de Bugs de Desempenho via Clonagem de Funções.</b> <em>Simpósio Brasileiro de Linguagens de Programação</em>, vol. 1, issue 1, pages 1-20, Brasília, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt17">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt17" style="display: none;">
+                @inproceedings{Balena13,<br>
+                &nbsp; author    = {Guilherme Balena and Matheus Vilela and Fernando Pereira},<br>
+                &nbsp; title     = {Resolução de Bugs de Desempenho via Clonagem de Funções},<br>
+                &nbsp; booktitle = {Simpósio Brasileiro de Linguagens de Programação},<br>
+                &nbsp; year      = {2013},<br>
+                &nbsp; pages     = {1-20},<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=ceseg:2013-sbseg-mc3.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Raphael Rodrigues and Fernando Pereira. <b>Prevenção Automática de Ataques de Não-Terminação.</b> <em>Simpósio Brasileiro de Linguagens de Programação</em>, vol. 1, issue 1, pages 21-40, Brasília, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt18">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt18" style="display: none;">
+                @inproceedings{Rodrigues13,<br>
+                &nbsp; author    = {Raphael Rodrigues and Fernando Pereira},<br>
+                &nbsp; title     = {Prevenção Automática de Ataques de Não-Terminação},<br>
+                &nbsp; booktitle = {Simpósio Brasileiro de Linguagens de Programação},<br>
+                &nbsp; year      = {2013},<br>
+                &nbsp; pages     = {21-40},<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://homepages.dcc.ufmg.br/~leob/papers/izabela.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Izabela Kareninna, Fernando Pereira, and Leonardo Barbosa. <b>Detecção Automática de Vulnerabilidades em Código Protegido por Canários.</b> <em>Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais</em>, vol. 1, issue 1, pages 1-14, Manaus, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt19">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt19" style="display: none;">
+                @inproceedings{Kareninna13,<br>
+                &nbsp; author    = {Izabela Kareninna and Fernando Pereira and Leonardo Barbosa},<br>
+                &nbsp; title     = {Detecção Automática de Vulnerabilidades em Código Protegido por Canários},<br>
+                &nbsp; booktitle = {Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais},<br>
+                &nbsp; year      = {2013},<br>
+                &nbsp; pages     = {1-14},<br>
+                &nbsp; publisher = {SBC}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="#"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Bruno Silva, Fernando Pereira, and Leonardo Barbosa. <b>Uma Representação Intermediária para a Detecção de Vazamentos Implícitos de Informação.</b> <em>Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais</em>, vol. 1, issue 1, pages 15-28, Manaus, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt20">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt20" style="display: none;">
+                @inproceedings{Silva13,<br>
+                &nbsp; author    = {Bruno Silva and Fernando Pereira and Leonardo Barbosa},<br>
+                &nbsp; title     = {Uma Representação Intermediária para a Detecção de Vazamentos Implícitos de Informação},<br>
+                &nbsp; booktitle = {Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais},<br>
+                &nbsp; year      = {2013},<br>
+                &nbsp; pages     = {15-28},<br>
+                &nbsp; publisher = {SBC}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="#"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Henrique Santos, Fernando Pereira, and Leonardo Barbosa. <b>Verificação Estática de Acessos a Arranjos em C.</b> <em>Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais</em>, vol. 1, issue 1, pages 29-42, Manaus, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt21">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt21" style="display: none;">
+                @inproceedings{Santos13,<br>
+                &nbsp; author    = {Henrique Santos and Fernando Pereira and Leonardo Barbosa},<br>
+                &nbsp; title     = {Prevenção de Ataques em Sistemas Distribuídos via Análise de Intervalos},<br>
+                &nbsp; booktitle = {Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais},<br>
+                &nbsp; year      = {2013},<br>
+                &nbsp; pages     = {29-42},<br>
+                &nbsp; publisher = {SBC}<br>
+                }
+            </div>
+        </TD>
+    </tr>
+    <TR>
+        <TD align= "center">
+            <A HREF="http://homepages.dcc.ufmg.br/~fernando/publications/books/matheusv_msc.pdf"
+                target="blank">
+                <img
+                    align= "center"
+                    src ="images/pdf.jpg"
+                    ALT="Download it"
+                    width=45>
+                    </A>
+        </TD>
+        <TD align= "left">
+Matheus Vilela and Fernando Pereira. <b>Otimizações de Código Sensíveis ao Contexto de Chamada.</b> <em>Workshop de Teses de Disertações do CBSoft</em>, vol. 1, issue 1, pages 1-6, Brasília, Brasil, 2013.
+<a href="#" type="button" class="btn-toggle" data-element="#pt22">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+        </TD>
+    </TR>
+    <TR>
+        <td></td>
+        <TD>
+            <div class="bib" id="pt22" style="display: none;">
+                @inproceedings{Vilela13,<br>
+                &nbsp; author    = {Matheus Vilela and Fernando Pereira},<br>
+                &nbsp; title     = {Otimizações de Código Sensíveis ao Contexto de Chamada},<br>
+                &nbsp; booktitle = {Workshop de Teses de Disertações do CBSoft},<br>
+                &nbsp; year      = {2013},<br>
+                &nbsp; pages     = {1-6},<br>
+                }
+            </div>
+        </TD>
+    </tr>
+</table>
+    <h3>2011</h3>
+    <p>
+    <table cellpadding="10pt">
+        <TR>
+            <TD align= "center">
+                <A HREF="http://www.sbgames.org/sbgames2011/proceedings/sbgames/papers/comp/short/11-92145_2.pdf"
+                    target="blank">
+                    <img
+                        align= "center"
+                        src ="images/pdf.jpg"
+                        ALT="Download it"
+                        width=45>
+                        </A>
+            </TD>
+            <TD align= "left">
+Thiago Vilela, Fernando Pereira, and Luiz Chaimowicz. <b>DroidTour: um Jogo Baseado em Localização para a Plataforma Android.</b> <em>X Simpósio Brasileiro de Games e Entretenimento DIgital</em>, Salvador, Brasil, 2011.
+<a href="#" type="button" class="btn-toggle" data-element="#pt25">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+            </TD>
+        </TR>
+        <TR>
+            <td></td>
+            <TD>
+                <div class="bib" id="pt25" style="display: none;">
+                    @inproceedings{Vilela11,<br>
+                    &nbsp; author    = {Thiago Vilela and Fernando Pereira and Luiz Chaimowicz},<br>
+                    &nbsp; title     = {DroidTour: um Jogo Baseado em Localização para a Plataforma Android},<br>
+                    &nbsp; booktitle = {X Simpósio Brasileiro de Games e Entretenimento DIgital},<br>
+                    &nbsp; year      = {2011},<br>
+                    &nbsp; publisher = {SBC}<br>
+                    }
+                </div>
+            </TD>
+        </tr>
+    </table>
+    <h3>2003</h3>
+    <p>
+    <table cellpadding="10pt">
+        <TR>
+            <TD align= "center">
+                <A HREF="http://compilers.cs.ucla.edu/fernando/publications/journals/Inatel2004.pdf"
+                    target="blank">
+                    <img
+                        align= "center"
+                        src ="images/pdf.jpg"
+                        ALT="Download it"
+                        width=45>
+                        </A>
+            </TD>
+            <TD align= "left">
+Fernando Pereira, Marco Valente, Roberto Bigonha, and Mariza Bigonha. <b>Chamada Remota de Métodos na Plataforma J2ME/CLDC.</b> <em>V Workshop de Comunicação sem Fio e Computação Móvel</em>, São Lourenço, Brasil, 2003.
+<a href="#" type="button" class="btn-toggle" data-element="#pt28">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+            </TD>
+        </TR>
+        <TR>
+            <td></td>
+            <TD>
+                <div class="bib" id="pt28" style="display: none;">
+                    @inproceedings{Pereira03,<br>
+                    &nbsp; author    = {Fernando Pereira and Marco Valente and Roberto Bigonha and Mariza Bigonha},<br>
+                    &nbsp; title     = {Chamada Remota de Métodos na Plataforma J2ME/CLDC},<br>
+                    &nbsp; year      = {2003},<br>
+                    &nbsp; pages     = {21-31},<br>
+                    &nbsp; publisher = {Revista Científica Periódica - Telecomunicações}<br>
+                    }
+                </div>
+            </TD>
+        </tr>
+    </table>
+    <h3>2002</h3>
+    <p>
+    <table cellpadding="10pt">
+        <TR>
+            <TD align= "center">
+                <A HREF="#"
+                    target="blank">
+                    <img
+                        align= "center"
+                        src ="images/pdf.jpg"
+                        ALT="Download it"
+                        width=45>
+                        </A>
+            </TD>
+            <TD align= "left">
+Fernando Pereira, Roberto Bigonha, and Vladimir Iorio. <b>Aplicações de Avaliação Parcial de Programas.</b> <em>LIV Reunião Nacional da Sociedade Brasileira para o Progresso da Ciência</em>, Goiânia, Brasil, 2002.
+<a href="#" type="button" class="btn-toggle" data-element="#pt29">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+            </TD>
+        </TR>
+        <TR>
+            <td></td>
+            <TD>
+                <div class="bib" id="pt29" style="display: none;">
+                    @inproceedings{Pereira02,<br>
+                    &nbsp; author    = {Fernando Pereira and Roberto Bigonha and Vladimir Iorio},<br>
+                    &nbsp; title     = {Aplicações de Avaliação Parcial de Programas},<br>
+                    &nbsp; booktitle = {LIV Reunião Nacional da Sociedade Brasileira para o Progresso da Ciência},<br>
+                    &nbsp; year      = {2002},<br>
+                    }
+                </div>
+            </TD>
+        </tr>
+    </table>
+    <h3>2001</h3>
+    <p>
+    <table cellpadding="10pt">
+        <TR>
+            <TD align= "center">
+                <A HREF="http://homepages.dcc.ufmg.br/~fernando/publications/papers/avalParcialCMIX.pdf"
+                    target="blank">
+                    <img
+                        align= "center"
+                        src ="images/pdf.jpg"
+                        ALT="Download it"
+                        width=45>
+                        </A>
+            </TD>
+            <TD align= "left">
+Fernando Pereira, Roberto Bigonha, Mariza Bigonha, and Vladimir Iorio. <b>Avaliação Parcial de Programas usando CMIX/II.</b> <em>V Simpósio Brasileiro de Linguagens de Programação</em>, pages C-32-C-47, Curitiba, Brasil, 2001.
+<a href="#" type="button" class="btn-toggle" data-element="#pt30">[BIBTEX]</a>
+<A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+            </TD>
+        </TR>
+        <TR>
+            <td></td>
+            <TD>
+                <div class="bib" id="pt30" style="display: none;">
+                    @inproceedings{Pereira01a,<br>
+                    &nbsp; author    = {Fernando Pereira and Roberto Bigonha and Mariza Bigonha and Vladimir Iorio},<br>
+                    &nbsp; title     = {Avaliação Parcial de Programas usando CMIX/II},<br>
+                    &nbsp; booktitle = {V Simpósio Brasileiro de Linguagens de Programação},<br>
+                    &nbsp; year      = {2001},<br>
+                    &nbsp; pages     = {C-32-C-47},<br>
+                    }
+                </div>
+            </TD>
+        </tr>
+        <TR>
+            <TD align= "center">
+                <A HREF="http://docplayer.com.br/7978702-Uma-linguagem-para-coordenacao-de-aplicacoes-em-redes-moveis-ad-hoc.html"
+                    target="blank">
+                    <img
+                        align= "center"
+                        src ="images/pdf.jpg"
+                        ALT="Download it"
+                        width=45>
+                        </A>
+            </TD>
+            <TD align= "left">
+                Fernando Pereira, Marco Valente, Roberto Bigonha, and Mariza Bigonha. <b>Uma Linguagem para Coordenação de Aplicações em Redes Móveis.</b> <em>VI Simpósio Brasileiro de Linguagens de Programação</em>, Rio de Janeiro, Brasil, 2001.<a href="#" type="button" class="btn-toggle" data-element="#pt31">[BIBTEX]</a>
+                <A HREF="#" type="button" class="btn-toggle">[SLIDES]</a>
+            </TD>
+        </TR>
+        <TR>
+            <td></td>
+            <TD>
+                <div class="bib" id="pt31" style="display: none;">
+                    @inproceedings{Pereira01,<br>
+                    &nbsp; author    = {Fernando Pereira and Marco Valente and Roberto Bigonha and Mariza Bigonha},<br>
+                    &nbsp; title     = {Uma Linguagem para Coordenação de Aplicações em Redes Móveis},<br>
+                    &nbsp; booktitle = {VI Simpósio Brasileiro de Linguagens de Programação},<br>
+                    &nbsp; year      = {2001},<br>
+                    &nbsp; publisher = {SBLP}<br>
+                    }
+                </div>
+            </TD>
+        </tr>
+    </table>
+
+</body></html>

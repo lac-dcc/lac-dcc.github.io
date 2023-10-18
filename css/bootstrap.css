@@ -6167,6 +6167,7 @@ a.badge:focus {
 }
 
 .scroll-button {
+  display: none;
   float: right;
   position: fixed;
   bottom: 10px;
